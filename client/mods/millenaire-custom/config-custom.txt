@@ -12,7 +12,7 @@ generate_help_data=false
 advancements_creative=firstcontact,explorer
 
 //Advancement completed for anonymous statistics
-advancements_survival=firstcontact,explorer,marcopolo,selfdefense,darkside
+advancements_survival=firstcontact,explorer,marcopolo,magellan,selfdefense,darkside
 
 //Unique random identifier to count unique players if statistics are enabled
 
@@ -596,6 +596,90 @@ travel_book_learning=true
 //Unique random identifier to count unique players if statistics are enabled
 
 //Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
+
+//Unique random identifier to count unique players if statistics are enabled
 random_uid=0
 
-validation=346186603
+validation=346186624

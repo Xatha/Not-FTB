@@ -26,7 +26,7 @@
     {     
 		"singleplayer":
         {
-            "text" : "menu.singleplayer",
+            "text" : "REEEEEEEEEEE",
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
@@ -46,7 +46,7 @@
 
 		"multiplayer":
         {
-            "text" : "menu.multiplayer",			
+            "text" : "Better Than Singleplayer",			
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
@@ -66,7 +66,7 @@
                
 		"options":
         {
-            "text" : "menu.options",
+            "text" : "Flex Tape it!",
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
@@ -104,7 +104,7 @@
                     
         "quit":
         {
-            "text" : "menu.quit",
+            "text" : "Dont you dare...",
 			"normalTextColor" : 16729156,
 			"hoverTextColor" : 14483456,
 			"texture" : "mainmenu:textures/btn.png",
@@ -115,7 +115,7 @@
 			imageWidth : 100,
 			imageHeight : 50,
 			"alignment" : "left_center",
-			"hoverText" : "No! Don't leave!",
+			"hoverText" : "Are you insane?",
             "action" : 
             {
                 "type" : "quit"

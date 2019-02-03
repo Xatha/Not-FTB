@@ -68,6 +68,10 @@ bloodmagic:bounce
 bloodmagic:cling
 bloodmagic:sacrificial_lamb
 bloodmagic:flight
+bloodmagic:grounded
+bloodmagic:suspended
+bloodmagic:heavy_heart
+bloodmagic:feathered
 thaumcraft:fluxtaint
 thaumcraft:visexhaust
 thaumcraft:infectiousvisexhaust
