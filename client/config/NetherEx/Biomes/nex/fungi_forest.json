@@ -75,6 +75,38 @@
       "minGroupCount": 1,
       "maxGroupCount": 1,
       "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_passive",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_water",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "multimob:dummy",
+      "creatureType": "multimob_lava",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
     }
   ],
   "features": [
